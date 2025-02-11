@@ -22,8 +22,5 @@ React, Tailwind CSS
 
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at amitroutadev.0723@gmail.com
 
 ![logo](https://user-images.githubusercontent.com/48612930/185729369-cc728710-2b41-4185-96eb-48a211ef5c3d.svg)
