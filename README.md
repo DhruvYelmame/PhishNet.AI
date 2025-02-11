@@ -5,40 +5,12 @@ PHISHNET.AI is an UI for phishing detection application where the user gives
 input of the URL and is able to know if the URL is phishing or legitimate along
 with which features the URL satisfies.
 
-![Vercel](https://img.shields.io/badge/vercel-deployed-green)
 
 ## Tech Stack
 
 React, Tailwind CSS
 
 
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/amitkroutthedev/phishing-url-detection-frontend.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Screenshots
@@ -49,9 +21,6 @@ Start the server
 
 
 
-- Live Extension - https://github.com/amitkroutthedev/phishing-url-detection-extension
-- Backend - https://github.com/amitkroutthedev/phishing-url-detection-backend
-- ML - https://github.com/amitkroutthedev/phishing-url-detection-ml
 
 ## Feedback
 
